@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">D6</string>
+    <string name="affirmation1">Bạn đang làm rất tốt!</string>
+    <string name="affirmation2">Hãy luôn cố gắng!</string>
+    <string name="affirmation3">Mỗi ngày một tiến bộ!</string>
+    <string name="affirmation4">Bạn có thể làm được!</string>
+    <string name="affirmation5">Đừng bỏ cuộc!</string>
+    <string name="affirmation6">Cố gắng thêm một chút!</string>
+    <string name="affirmation7">Hôm nay sẽ là một ngày tốt!</string>
+    <string name="affirmation8">Hãy tin vào bản thân!</string>
+    <string name="affirmation9">Tiếp tục tiến lên!</string>
+    <string name="affirmation10">Tiếp tục tiến lên!</string>
+</resources>
